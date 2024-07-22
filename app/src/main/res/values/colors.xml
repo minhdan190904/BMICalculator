@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color_1">#3E3E3B</color>
+    <color name="background_color_2">#2F4E8C</color>
+    <color name="gay_go">#3B76ED</color>
+    <color name="binh_thuong">#FFEB3B</color>
+    <color name="thua_can">#FF9800</color>
+    <color name="beo_phi">#F44336</color>
+</resources>
